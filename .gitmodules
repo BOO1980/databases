@@ -1,0 +1,3 @@
+[submodule "mySQL"]
+	path = mySQL
+	url = https://github.com/hayleyBillingham/mySQL.git
