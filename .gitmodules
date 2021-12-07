@@ -1,0 +1,3 @@
+[submodule "database-platforms/nocoDB"]
+	path = database-platforms/nocoDB
+	url = ../nocoDB.git
