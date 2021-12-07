@@ -1,0 +1,2 @@
+[submodule "database-platforms/nocoDB"]
+	url = https://github.com/hayleyBillingham/nocoDB.git
