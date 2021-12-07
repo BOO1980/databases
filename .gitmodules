@@ -1,3 +1,0 @@
-[submodule "mongoDB"]
-	path = mongoDB
-	url = ../mongoDB.git
